@@ -57,7 +57,5 @@ The control pipeline evaluates absolute closest vector matching against referenc
 
 ---
 
-## 👥 Contributors (Swinburne Team)
+## 👥 Contributor
 * **Albert Lau** - Core Architecture & Computer Vision / Serial Protocol Engineer
-* **Nathan Wallis** - Booking time of using robot of lab
-* **Ishara Kalubowila** - Writing report
