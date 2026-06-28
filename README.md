@@ -1,8 +1,6 @@
 # RSD-Hand-Eye-Coordination-Project
 An autonomous closed-loop robotic sorting system integrating OpenCV computer vision, 8-bit parallel serial communication, and nested-subroutine control loops for dynamic physical color puzzle classification using the Intelitek Scorbot-ER 9.
 
-Markdown
-
 # Autonomous Closed-Loop Sorting & Hand-Eye Coordination System
 
 An industrial-grade robotics vision implementation featuring dynamic color identification, real-time hardware-in-the-loop serial processing, and fault-tolerant automated pick-and-place trajectories. Developed as part of the Robot System Design (RSD) curriculum using an Intelitek Scorbot-ER 9 system.
